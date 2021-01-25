@@ -1,0 +1,826 @@
+boys, 0
+song, 1
+david bowie, 0
+single, 1
+recording, 1
+release, 1
+bowie, 0
+track, 1
+brian eno, 0
+sound, 1
+band, 0
+instruments, 3
+suggestion, 2
+drums, 3
+bass, 3
+same album, 1
+fantastic voyage, 1
+b-side, 1
+rca, 1
+anger, 1
+singers, 0
+lines, 1
+tour, 4
+track listing, 1
+producers, 1
+musicians, 0
+mandolin, 3
+bass guitar, 3
+vocals, 3
+piano, 3
+releases, 1
+singles, 1 
+cover, 1
+versions, 1
+ep, 1
+record deal, 1
+version, 1
+songs, 1
+original soundtrack, 1
+duran duran, 0
+notes, 4
+references, 1
+reynolds, 0
+isbn, 1
+lyrics, 1
+metrolyrics, 1
+brand, 0
+discography, 1
+101 strings, 0
+melody, 4
+orchestra, 0
+rock, 2
+roll, 2
+records, 1
+original compositions, 4
+early 1960s, 2
+re-release, 1
+sherman, 0
+production, 1
+john lennon, 0
+hits, 1
+beatles, 0
+tunes, 1
+blues, 2
+cds, 1
+cd, 1
+bel canto, 2
+record, 1
+soul, 2
+music, 1
+easy listening, 4
+oliver knussen, 0
+libretto, 2
+performance history, 4
+opera, 4
+composer, 0
+new york city opera, 4
+first performance, 4
+stage, 4
+synopsis, 1
+recordings, 1
+creativity, 4
+events, 4
+alternative, 2
+american folk music, 2
+solo artist, 0
+variety, 2
+performers, 0
+pete seeger, 0
+arlo guthrie, 0
+folk music, 2
+altar, 1
+record label, 1
+parodies, 4
+musical styles, 2
+style, 2
+early rock, 2
+song's lyrics, 1
+song's title, 1
+play, 1
+singer, 0
+queen, 0
+love songs, 1
+record labels, 1
+byrds, 0
+david crosby, 0
+ravi shankar, 0
+indian classical music, 2
+genre, 2
+crosby, 0
+indian music, 2
+shankar, 0
+john coltrane, 0
+columbia records, 1
+recording session, 1
+lyric, 1
+verses, 1
+rhythm, 4
+popular music, 2
+rock music, 2
+amplifier, 3
+recording sessions, 1
+interview, 4
+guitarist, 0
+writing, 4
+album, 1
+group, 0
+gary usher, 0
+billboard hot, 4
+uk singles chart, 1
+psychedelic rock, 2
+yardbirds, 0
+kinks, 0
+pop songs, 2
+medley, 4
+second single, 1
+biggest hits, 1
+studio, 1
+singing, 4
+microphone, 3
+composition, 4
+tempo, 4
+solo career, 0
+track listings, 1
+youtube, 4
+most successful album, 1
+popular songs, 1
+brandon heath, 0
+britney spears, 0
+listeners, 1
+bebo norman, 0
+awards, 4
+gma dove awards, 4
+allmusic, 1
+atilla engin, 0
+musician, 0
+music festivals, 4
+groups, 0
+first album, 1
+atilla engin group, 0
+albums, 1
+festival, 4
+performances, 4
+zakir hussain, 0
+lyrics, 1
+percussion, 3
+trumpet, 3
+myspace, 4
+discogs, 1
+bugle, 3
+bugles, 3
+drummers, 0
+buglers, 0
+anita kerr, 0
+americsinger, 0
+pianist, 0
+producer, 1
+anita, 0
+collaboration, 4
+decca records, 1
+burl ives, 0
+kerr, 0
+soprano, 4
+chet atkins, 0
+anita kerr singers, 0
+own songs, 1
+hit single, 1
+rca victor, 1
+label, 1
+compositions, 4
+grammy award, 4
+vocal group, 0
+backup singers, 0
+perry como, 0
+willie nelson, 0
+other artists, 0
+living voices, 1
+anita kerr quartet, 0
+pop music, 2
+jazz, 2
+warner bros. records, 1
+new group, 0
+cover version, 1
+trio, 0
+choir, 4
+burt bacharach, 0
+hal david, 0
+artists, 0
+garfunkel, 0
+original music, 1
+royal philharmonic orchestra, 4
+limbo, 2
+american music, 2
+voices, 4
+harmony, 4
+bert kaempfert, 0
+reissue, 1
+jimmie davis, 0
+chorus, 4
+arranger/producer, 1
+stevie wonder, 0
+poetry, 2
+compilation, 1
+concert, 4
+video, 4
+electronic dance music, 2
+dance music, 2
+eclectic mix, 2
+peter gabriel, 0
+clubs, 4
+nightclub, 4
+club, 4
+styles, 2
+hip hop, 2
+reggae, 2
+rap, 2
+bass drum, 3
+funk, 2
+sounds, 1
+acoustic instruments, 3
+guitar, 3
+repertoire, 4
+dj, 0
+djs, 0
+compilations, 1
+house music, 2
+peter pears, 0
+tenor, 0
+poem, 2
+alto, 4
+fourth album, 1
+remixes, 1
+first songs, 1
+bandmates, 0
+acoustic guitar, 3
+pops, 2
+single release, 1
+fans, 1
+music video, 4
+remix, 1
+xou da xuxa, 1
+second studio album, 1
+brazilian singer, 0
+best-selling album, 1
+disc, 1
+tracks, 1
+feat, 4
+andy middleton, 0
+american jazz, 2
+classical music, 2
+ethnic music, 2
+middleton, 0
+jazz music, 2
+acoustic guitars, 3
+trombone, 3
+radio format, 4
+orchestral music, 2
+radio, 4
+big bands, 0
+soft rock, 2
+country music, 2
+smooth jazz, 2
+music, 1
+contemporary, 2
+american r&b, 2
+garage rock, 2
+operas, 4
+sound recording, 1
+popular music genres, 2
+compact discs, 1
+live performances, 4
+pop and rock music, 2
+record producers, 1
+new sounds, 1
+live performance, 4
+musique concrète, 2
+musical instrument, 3
+vinyl record, 1
+composers, 0
+instrumentation, 3
+saxophones, 3
+brass instruments, 3
+electric guitar, 3
+electric bass, 3
+songwriters, 0
+jazz fusion, 2
+synthesizers, 3
+drum machines, 3
+rachmaninoff, 0
+richard strauss, 0
+giacomo puccini, 0
+claude debussy, 0
+tonality, 4
+orchestration, 4
+schoenberg, 0
+ralph vaughan williams, 0
+aaron copland, 0
+carlos chávez, 0
+octave, 4
+intonation, 4
+terry riley, 0
+karlheinz stockhausen, 0
+igor stravinsky, 0
+paul hindemith, 0
+arnold schoenberg, 0
+experimental music, 2
+john cage, 0
+steve reich, 0
+philip glass, 0
+john adams, 0
+arvo pärt, 0
+contemporary classical music, 2
+electronic music, 2
+instrumental music, 2
+olivier messiaen, 0
+electronic instruments, 2
+art music, 2
+pierre boulez, 2
+johann gottfried herder, 0
+folk, 2
+genres, 2
+traditional tunes, 2
+béla bartók, 0
+bluegrass music, 2
+bluegrass, 2
+musical traditions, 2
+old-time music, 2
+instrument, 3
+traditional bluegrass, 2
+folk songs, 2
+bill monroe, 0
+electric instruments, 2
+instrumentals, 2
+subgenre, 2
+frank sinatra, 0
+george gershwin, 0
+muddy waters, 0
+chicago blues, 2
+western music, 2
+traditional folk music, 2
+disco, 2
+salsa, 2
+soul music, 2
+hip hop music, 2
+music genre, 2
+bebop, 2
+swing, 2
+fusion, 2
+free jazz, 2
+combination, 2
+ragtime, 2
+hymns, 2
+work songs, 2
+polka, 2
+alternative rock, 2
+progressive rock, 2
+punk rock, 2
+world music, 2
+don carlo, 0
+children's song, 2
+productions, 1
+plays, 4
+musicals, 4
+annie's song, 1
+billboard, 4
+instrumental version, 4
+tchaikovsky, 0
+vocalist, 0
+rock band, 0
+first release, 0
+beat, 1
+chart performance, 4
+number-one singles, 1
+number-one adult contemporary singles, 1
+electronic music genres, 2
+techno, 2
+live recording, 4
+opera singer, 0
+metropolitan opera, 4
+enrico caruso, 0
+hit parade, 4
+american primitive guitar, 3
+new-age music, 2
+artist, 0
+band music, 2
+fifth studio album, 1
+soundtrack, 1
+song's music video, 4
+cover versions, 1
+tribute album, 1
+old songs, 1
+punk, 2
+band's name, 0
+musical style, 2
+studio albums, 1
+singing voice, 4
+leonard bernstein, 0
+verdi's rigoletto, 4
+young singers, 0
+boston symphony orchestra, 0
+rigoletto, 4
+new york philharmonic orchestra, 0
+bobbejaan schoepen, 0
+cabaret, 4
+vocal music, 2
+guitars, 3
+improvisation, 4
+performance, 4
+rca records, 1
+new songs, 1
+elvis, 0
+western swing, 2
+record company, 1
+award, 4
+lifetime achievement award, 4
+eurovision song contest, 4
+air guitar, 3
+performer, 0
+solos, 4
+band members, 0
+guitar hero, 0
+new musical theatre, 4
+paul simon, 0
+third studio album, 1
+meditation, 2
+hymn, 2
+melody line, 2
+jerry douglas, 0
+theme song, 2
+suffolk, 2
+writer, 0
+choristers, 0
+musical director, 0
+concerts, 4
+hip-hop, 2
+ragga, 2
+beats, 2
+electronica, 2
+music festival, 4
+tambourine, 3
+viola, 3
+tape, 1
+john cale, 0
+bob dylan, 0
+single version, 1
+studio version, 1
+bauhaus, 0
+oysterband, 0
+siouxsie, 0
+banshees, 0
+bryan ferry, 0
+june tabor, 0
+live shows, 4
+concept album, 1
+prelude, 1
+accordion, 3
+banjo, 3
+alan menken, 0
+radio show, 4
+serge gainsbourg, 0
+hit song, 1
+female singers, 0
+petula clark, 0
+chants, 4
+melodies, 2
+musicologists, 0
+electronic beats, 2
+synths, 3
+samples, 4
+new wave, 2
+scene, 4
+incredible bongo band, 0
+minor hit, 1
+pop, 2
+songwriter, 0
+rapper, 0
+songwriting, 4
+music industry, 1
+playlists, 1
+hit, 1
+rappers, 0
+synthpop, 2
+claudio monteverdi, 0
+wolfgang amadeus mozart, 0
+chorister, 0
+ballet music, 2
+ballets, 2
+symphonies, 2
+rumba, 2
+oachino rossini, 0
+grove music, 2
+robin, 0
+sugar, 4
+contemporaries, 2
+frank zappa, 0
+bobby, 0
+gospel music, 2
+ga, 4
+byron cage, 0
+live recordings, 4
+first recording, 4
+friday, 4
+next album,4
+charlotte, 0
+nc, 3
+album, 1
+tenor saxophone, 3
+cadence-lypso, 2
+cadence rampa, 2
+gordon henderson, 0
+calypso, 2
+traditional music, 2
+carlos santana, 0
+milestone, 0
+santana, 0
+keyboards, 3
+culture, 0
+ophelia, 4
+creole, 2
+origin, 0
+maracas, 3
+calypso music, 2
+soloist, 0
+obituary, 0
+british soul, 2
+british artists, 0
+contemporary r&b, 2
+spencer davis group, 0
+small faces, 0
+rolling stones, 0
+handful, 4
+chris, 0
+wall, 4
+george benson, 0
+donna summer, 0
+herbie hancock, 0
+aretha franklin, 0
+wave, 2
+imagination, 0
+freeez, 0
+covers, 4
+phil collins, 0
+steve winwood, 0
+incognito, 0
+damage, 0
+jay sean, 0
+adele, 0
+leona lewis, 0
+all-american boy, 1
+long time, 4
+r&b, 2
+howlin' wolf, 0
+chuck berry, 0
+bo diddley, 0
+skiffle, 2
+alexis korner, 0
+electric blues, 2
+blues incorporated, 2
+manfred mann, 0
+animals, 0
+mick jagger, 0
+eric burdon, 0
+split, 1
+ska, 2
+drum, 3
+blues music, 2
+fats waller, 0
+louis jordan, 0
+josh white, 0
+john lee hooker, 0
+sonny terry, 0
+lonnie johnson, 0
+banjos, 3
+blues, 2
+ewan maccoll, 0
+rising sun, 4
+bert jansch, 0
+john renbourn, 0
+british blues, 2
+davies, 0
+korner, 0
+long john baldry, 0
+john mayall, 0
+jimmy page, 0
+keith richards, 0
+jagger, 0
+pink floyd, 0
+eric clapton, 0
+harmonica, 3
+jeff beck, 0
+full-length albums, 1
+early albums, 1 
+jack bruce, 0
+live album, 1
+boogie, 2
+jimi hendrix, 0
+rod stewart, 0
+elton john, 0
+bluesbreakers, 0
+peter green, 0
+fleetwood mac, 0
+jethro tull, 0
+led zeppelin, 0
+deep purple, 0
+hard rock, 2
+three albums, 1
+debut album, 1
+third album, 1
+punk music, 2
+keyboard player, 0
+bill wyman, 0 
+guitarists, 0
+heavy metal, 2
+britpop, 2
+blues rock, 2
+hank marvin, 0
+mezzo-soprano, 0
+pipes, 3
+bell, 3
+exodus, 1
+saxophone, 3
+theatrical performances, 4
+lisa, 0
+gothic rock, 2
+rolling stone, 0
+live music, 4
+latin music, 2
+reggaeton, 2
+barry white, 0
+b.b. king, 0
+police, 0
+al stewart, 0
+earl scruggs, 0
+ramones, 0
+judas priest, 0
+slayer, 0
+7 seconds, 0
+death angel, 0
+devo, 0
+psychedelic music, 2
+rave music, 2
+people's republic of china, 4
+organ music, 2
+choral singing, 4
+classics, 2
+sonata, 4
+hymn tunes, 4
+cantatas, 4
+church music, 2
+sonata no., 4
+nunc dimittis, 4
+african popular music, 2
+western popular music, 2
+zouk, 2
+afropop, 2
+cuban music, 2
+electric guitars, 3
+chamber pop, 2
+indie rockn, 2
+high llamas, 0
+beach boys, 0
+baroque pop, 2
+brian wilson, 0
+alternative music, 2
+smashing pumpkins, 0
+r.e.m., 0
+nirvana, 0
+pearl jam, 0
+modern rock, 2
+african music, 2
+rwanda, 0
+alternative metal, 2
+metal, 2
+alternative metal bands, 0
+nu metal, 2
+korn, 0
+soundgarden, 0
+metallica, 0
+hardcore punk, 2
+bad brains, 0
+helmet, 0
+art rock, 2
+primus, 0
+thrash metal, 2
+red hot chili peppers, 0
+heavy metal music, 2
+college rock, 2
+linkin park, 0
+havana, 4
+italian opera, 2
+mattia battistini, 0
+traditional instruments, 3
+bagpipes, 3
+tin whistle, 3
+celtic metal, 2
+maury yeston, 0
+john doe, 0
+anton sistermans, 0
+church choir, 0
+cantata, 4
+op, 4
+themes, 4
+opening track, 4
+closing track, 4
+solo albums, 1
+compilation albums, 1
+cast recordings, 4
+studio recordings, 4
+live show, 4
+kiss, 0
+duke ellington, 0
+biggest hit, 4
+patiala gharana, 2
+ali barksh jarnail, 0
+a cappella version, 4
+glockenspiel, 3
+lullaby, 4
+sopranos, 0
+folk song, 2
+beethoven, 0
+rap, 2
+baqashot, 2
+pizmonim, 2
+maqam, 2
+liturgy, 2
+ry cooder, 0
+slide guitar, 3
+bhatt, 0
+james brown, 0
+carmen miranda, 0
+elvis presley, 0
+barbra streisand, 0
+roger quilter, 0
+bass-baritone, 0
+basses, 3
+benjamin britten, 0
+choral music, 2
+basso profondo, 3
+vibrato, 3
+gilbert sullivan, 0
+bach, 0
+swing era, 0
+jimmy buffett, 0
+alien sex fiend, 0
+alice cooper, 0
+mozart, 0
+violins, 3
+violas, 3
+dead kennedys, 0
+gospel, 2
+ukulele, 3
+casey jones, 0
+ballad, 4
+maurice chevalier, 0
+own compositions, 4
+sikhism, 2
+kannada, 0
+telugu, 0
+violin, 3
+beatrhyming, 4
+janet jackson, 0
+cello, 3
+bethlehem, 0
+alix olson, 0
+selena gomez, 0
+concertos, 4
+sacred music, 2
+symphony, 4
+lead singer, 0
+percussionist, 0
+laurie anderson, 0
+baroque, 2
+lead vocalist, 0
+guest appearances, 4
+my chemical romance, 0
+tuba, 3
+sara bareilles, 0
+cat stevens, 0
+live band, 0
+black metal, 2
+bathory, 0
+hellhammer, 0 
+celtic frost, 0
+mayhem, 0
+darkthrone, 0
+burzum, 0
+immortal, 0
+emperor, 0
+satyricon, 0
+dimmu borgir, 0
+motörhead, 0
+sodom, 0
+death metal, 2
+varg vikernes, 0
+folk metal, 2
+glam rock, 2
+industrial music, 2
+black metal bands, 0
+bass, 3
+baritone, 0
+stanley sadie, 0
+acid house, 2
+trance, 2
+franz liszt, 0
+gregorian chant, 2
+ronnie james dio, 0
