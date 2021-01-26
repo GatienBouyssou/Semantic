@@ -3,17 +3,14 @@ from common_functions import *
 from collections import defaultdict
 
 
-MIN_FREQ = 20 #frequency used to filter contexts
-
-
-def main():
+def main(window_size=5, MIN_FREQ=20):
     """
     Create window-based co-occurence file
     """
+    print("Starting window based matrix creation")
     processed_corpus_dir = r"./OutputDir"
     freq_file = r"./OutputDir/freqTerms.txt"
     terms_file = r"./OutputDir/ExtractedTerms.txt"
-    window_size = 5
 
     # Load the frequent words file
     with open(freq_file) as f_in:
@@ -35,7 +32,7 @@ def main():
     # Save the files
     save_file_as_Matrix1(cooc_mat, frequent_contexts, processed_corpus_dir, r"/window_matrix.csv", r"/window_matrix_terms.txt")
     save_file_as_Matrix12(cooc_mat, frequent_contexts, processed_corpus_dir, r"/window_matrix2.csv")
-
+    print("Finish window based matrix creation")
 
 def update_window_based_cooc_matrix(cooc_mat, freq_words, sentence, window_size, terms):
     """

@@ -3,6 +3,23 @@ import string
 import numpy as np
 from collections import defaultdict
 
+
+def cartesian(arrays, out=None):
+    arraysCopy = [np.asarray(x) for x in arrays]
+    dtype = arraysCopy[0].dtype
+
+    n = np.prod([x.size for x in arraysCopy])
+    if out is None:
+        out = np.zeros([n, len(arraysCopy)], dtype=dtype)
+
+    m = int(n / arraysCopy[0].size)
+    out[:,0] = np.repeat(arraysCopy[0], m)
+    if len(arrays) > 1:
+        cartesian(arrays[1:], out=out[0:m, 1:])
+        for j in range(1, arraysCopy[0].size):
+            out[j*m:(j+1)*m, 1:] = out[0:m, 1:]
+    return out
+
 def get_sentences(corpus_file):
     """
     Returns all the (content) sentences in a corpus file

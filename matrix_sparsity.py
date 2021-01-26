@@ -6,6 +6,7 @@ def main():
     sparsity = 1.0 - np.count_nonzero(X) * 1.0 / X.size
     print(sparsity)
     plt.matshow(X)
+    plt.savefig("../images/firstMatrixSparcityNoSTPW.png")
     plt.show()
 
 if __name__ == '__main__':

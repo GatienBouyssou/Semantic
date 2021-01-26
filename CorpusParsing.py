@@ -2,10 +2,11 @@ import spacy
 from os import listdir
 from os.path import isfile, join
 nlp = spacy.load('en_core_web_sm')
+from spacy.lang.en.stop_words import STOP_WORDS
+stopWords = set(STOP_WORDS)
 
 
-
-def main():
+def main(min_freq = 3, isDep = True):
     """
         corpus parsing + creation of frequent terms file above given minimum threshold
     """
@@ -14,17 +15,15 @@ def main():
     output_dir = r"./OutputDir" # result file output directory
     output_file = output_dir + r"/processedTestCorpus.txt" # name of the output file (the processed corpus)
     freqTerms_output_file = output_dir + r"/freqTerms.txt" # name of the output file (the frequent terms)
-    min_freq = 3 #minimum frequent threshold for creating the file of frequent terms
-    isDep = True #True for depenceny parsing; False for shallow parsing
+    print("Start Corpus extraction")
     #Process Result: create the processed corpus file and the frequent terms file
-
     lemmas = dict()
     alldocs = [join(corpus_dir, f) for f in listdir(corpus_dir) if isfile(join(corpus_dir, f))]
     f2 = open(output_file, "w", errors='ignore')
     alldocs = alldocs[:int(len(alldocs)*0.1)]
     nbrOfDocs = len(alldocs)
     for i, doc in enumerate(alldocs):
-        if i%10 ==0: print(i/nbrOfDocs)
+        # if i%10 ==0: print(i/nbrOfDocs)
         f2.write("<text>" + "\n") # new document
         with open(doc, "rb")as docText:
             for line in docText:
@@ -36,6 +35,8 @@ def main():
                     parsedSent = nlp(sent, disable=['parser']) #shallow parsing
                 index = 0
                 for token in parsedSent:
+                    if token.pos_ in {"PUNCT"} or token.lemma_ in stopWords:
+                        continue
                     if isDep:
                         w = token.text + "\t" + token.lemma_ + "\t" + token.pos_ + "\t" + str(
                             index) + "\t" + token.head.text + "\t" + token.dep_ + "\n"
@@ -59,6 +60,7 @@ def main():
             freq_file.write(key + "\n")
     freq_file.close()
     f2.close()
+    print("Finish Corpus extraction")
 
 if __name__ == '__main__':
     main()

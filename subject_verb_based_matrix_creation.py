@@ -3,17 +3,16 @@ from common_functions import *
 from collections import defaultdict
 
 
-MIN_FREQ = 5 #frequency used to filter contexts
+ #frequency used to filter contexts
 
 
-def main():
+def main(window_size=5):
     """
     Create window-based co-occurence file
     """
     processed_corpus_dir = r"./OutputDir"
     freq_file = r"./OutputDir/freqTerms.txt"
     terms_file = r"./OutputDir/ExtractedTerms.txt"
-    window_size = 5
 
     # Load the frequent words file
     with open(freq_file) as f_in:

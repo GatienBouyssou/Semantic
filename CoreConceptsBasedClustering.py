@@ -8,7 +8,7 @@ def main():
     Y = np.loadtxt("./OutputDir/window_matrix_terms.txt", delimiter="\t", dtype=str)
 
     #initialize the core concepts
-    CoreConcepts = ["Musician", "Album", "Genre", "Instrument", "Performance"]
+    CoreConcepts = {"Musician", "Album", "Genre", "Instrument", "Performance"}
 
     coreConceptsDict = dict()
     coreConceptsSpecializationDict = {core:[] for core in CoreConcepts}

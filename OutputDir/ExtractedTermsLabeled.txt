@@ -1,3 +1,3204 @@
+career, 4
+song, 4
+magic, 4
+popular songs, 1
+sides, 1
+atlantic, 5
+nirvana, 0
+religion, 5
+digital download, 1
+time, 5
+change, 1
+recordings, 1
+vocals, 4
+soul, 2
+collection, 1
+hymns, 2
+return, 1
+discography, 1
+albums, 1
+home, 5
+singles, 1
+world, 5
+music, 1
+spite, 5
+rehearsal, 4
+internet, 4
+producer, 1
+clips, 4
+website, 4
+people, 0
+list, 1
+artists, 0
+number, 1
+references, 1
+external links, 5
+united kingdom, 5
+content, 1
+interviews, 4
+reviews, 4
+official website, 1
+state, 5
+event, 4
+globe, 5
+variety, 2
+performances, 4
+india, 5
+ensembles, 5
+spain, 5
+italy, 5
+france, 5
+second edition, 1
+association, 5
+performers, 0
+festival, 4
+schedule, 5
+venue, 5
+evening, 5
+dance, 2
+jazz fusion, 2
+profit, 5
+corps, 3
+new jersey, 5
+championships, 5
+history, 2
+competition, 4
+season, 4
+end, 5
+decade, 5
+1990s, 2
+summary, 5
+source, 5
+official site, 5
+village people, 5
+third studio album, 1
+uk, 5
+same time, 5
+medley, 5
+u.s., 5
+europe, 5
+arms, 5
+opportunity, 5
+status, 5
+mission, 5
+day, 5
+records, 1
+texas, 5
+20th century, 5
+rose, 5
+man, 0
+rolling stone, 0
+men, 0
+group, 0
+days, 4
+mind, 5
+lead singer, 0
+lyricist, 0
+studio, 1
+willis, 0
+expression, 5
+track, 1
+release, 1
+band, 0
+organization, 5
+composers, 0
+court, 5
+pride, 5
+united states, 5
+top spot, 5
+parties, 5
+events, 4
+weddings, 5
+notice, 5
+writers, 0
+california, 5
+grant, 5
+hits, 1
+acts, 5
+september, 5
+march, 5
+reflection, 5
+vancouver, 5
+key, 3
+disco, 2
+brass, 3
+lead vocals, 0
+background vocals, 0
+film, 4
+origin, 5
+letters, 5
+chorus, 2
+hands, 5
+head, 5
+january, 5
+guests, 5
+hour, 5
+audience, 5
+spin, 5
+heads, 5
+letter, 5
+y, 5
+suit, 5
+crowd, 5
+july, 5
+crew, 5
+chart performance, 4
+sales, 5
+certifications, 5
+covers, 1
+parodies, 2
+same year, 5
+choice, 4
+navy, 5
+children, 5
+kelly, 0
+scene, 4
+sailor, 5
+dj, 0
+duo, 0
+parody, 2
+album, 1
+commercial, 2
+lyrics, 1
+lines, 1
+rock, 2
+jews, 5
+tune, 4
+fun, 2
+torah, 5
+hebrew, 5
+congress, 5
+representatives, 5
+order, 5
+music videos, 4
+music video, 4
+shows, 4
+austin, 5
+version, 1
+november, 5
+sentiment, 5
+theme, 5
+place, 5
+car, 5
+june, 5
+cover, 1
+campaign, 5
+first time, 5
+boy, 5
+george, 0
+voice, 4
+young people, 5
+issues, 5
+youtube, 4
+organisation, 5
+power, 5
+light, 5
+metrolyrics, 2
+world class, 5
+wisconsin, 5
+blue stars, 5
+drum corps international, 3
+minnesota, 5
+streets, 5
+funds, 5
+competitions, 4
+washington, 5
+new orleans, 5
+finals, 5
+action, 5
+reaction, 5
+sponsors, 5
+boston crusaders, 5
+promoters, 5
+pressure, 5
+judges, 5
+drum corps, 3
+host, 5
+alliance, 5
+members, 5
+north america, 5
+whitewater, 5
+second place, 5
+east, 5
+south, 5
+west coast, 5
+canada, 5
+alumni, 5
+inc., 5
+ashes, 5
+field, 5
+use, 5
+years, 5
+open class, 5
+division, 5
+money, 5
+public, 5
+attention, 5
+river, 5
+rest, 5
+result, 5
+size, 5
+majority, 5
+existence, 5
+sponsorship, 5
+performing arts, 4
+board, 5
+directors, 5
+staff, 5
+executive director, 5
+corps director, 5
+appeal, 5
+marches, 5
+traditions, 5
+work, 5
+phrase, 5
+symbols, 5
+david, 0
+images, 5
+jerusalem, 5
+gold, 5
+ballad, 2
+trademark, 5
+beginning, 5
+=, 5
+folk music, 2
+folk, 2
+bhangra, 2
+wood, 5
+shape, 5
+sound, 4
+design, 5
+playing, 4
+string, 5
+center, 5
+instrument, 3
+instruments, 3
+prague, 5
+writer, 0
+new york times, 5
+companies, 5
+chicago, 5
+productions, 1
+london, 5
+yakshagana, 5
+dialogue, 5
+form, 5
+parts, 5
+karnataka, 5
+dawn, 5
+etymology, 5
+theater, 4
+period, 5
+music genre, 2
+background music, 2
+musicians, 0
+stage, 4
+production, 1 
+players, 0
+harmonium, 2
+organ, 3
+ragas, 2
+western music, 2
+patterns, 4
+drums, 3
+actors, 5
+face, 5
+performance, 4
+story, 5
+elements, 5
+ability, 5
+scholarship, 5
+variations, 5
+dances, 2
+character, 5
+method, 5
+comparison, 5
+opera, 4
+recent years, 5
+entertainment, 4
+style, 2
+writing, 4
+poems, 2
+ballads, 2
+minister, 5
+founder, 5
+copy, 5
+university, 5
+land, 5
+art, 4
+temple, 5
+evidence, 5
+poem, 2
+researchers, 5
+father, 0
+author, 0
+fact, 5
+art form, 4
+today, 5
+past, 5
+languages, 5
+evolution, 5
+19th century, 5
+large number, 5
+early 20th century, 5
+birth, 5
+audiences, 5
+genre, 2
+inclusion, 5
+language, 5
+hours, 5
+andhra pradesh, 0
+categories, 2
+rules, 5
+same name, 5
+forms, 5
+category, 2
+subgenres, 2
+scholars, 5
+types, 2
+areas, 5
+influence, 5
+type, 2
+colors, 5
+rhythms, 2
+air, 5
+hundreds, 5
+times, 5
+emphasis, 5
+episode, 5
+president, 5
+places, 5
+presentation, 5
+standards, 5
+costumes, 5
+background, 5
+centuries, 5
+son, 4
+second half, 5
+venues, 5
+changes, 5
+criticism, 5
+raga, 2
+series, 5
+melody, 2
+set, 2
+night, 5
+tala, 2
+sanskrit, 5
+composition, 4
+dancers, 4
+indian music, 2
+literature, 5
+15th century, 5
+compositions, 4
+color, 5
+characters, 5
+play, 4
+mirror, 5
+chest, 5
+body, 5
+cymbals, 3
+pair, 5
+tone, 4
+singers, 0
+drum, 3
+training, 5
+research, 5
+temples, 5
+rituals, 5
+usa, 5
+ontario, 5
+toronto, 5
+troupe, 0
+visit, 5
+age, 5
+thousands, 5
+miles, 5
+couple, 5
+months, 5
+new generation, 2
+tour, 4
+course, 5
+year, 5
+photos, 5
+documentary film, 5
+notes, 4
+reading, 5
+isbn, 5
+interview, 4
+development, 5
+aarti, 5
+word, 5
+ritual, 5
+god, 5
+person, 5
+occasions, 5
+flame, 5
+metal, 5
+bronze, 5
+flowers, 5
+translation, 5
+truth, 5
+creator, 5
+universe, 5
+lord, 5
+worlds, 5
+things, 5
+praise, 5
+planet, 5
+england, 5
+ska, 2
+punk, 2
+electronic dance music, 2
+following, 5
+early 1990s, 5
+resistance, 5
+own label, 5
+label, 5
+messages, 5
+august, 5
+summer, 5
+december, 5
+friday, 5
+keyboards, 5
+bass, 3
+drummer, 0
+guitar, 3
+solo album, 1
+record producer, 1
+birds, 5
+addition, 5
+lead guitarist, 0
+owner, 5
+carl,5
+cassette, 1
+compilation, 1
+thought, 5
+locations, 5
+gigs, 4
+base, 5
+october, 5
+bridge, 5
+sign, 5
+billboard hot, 4
+uk singles chart, 1
+critical reception, 5
+scope, 5
+video, 4
+arista records, 1
+band members, 0
+versions, 1
+vh1, 5
+track listings, 1
+personnel, 5
+backing, 5
+charts, 5
+appearances, 5
+media, 4
+movie, 5
+philippines, 5
+australia, 5
+game, 5
+larry, 5
+new version, 1
+rhythm, 2
+house music, 2
+dubstep, 2
+second studio album, 1
+soundtrack, 1
+songwriter, 0
+musician, 0
+artist, 0
+stage name, 0
+captain beefheart, 0
+van vliet, 5
+harmonica, 3
+saxophone, 3
+blues, 2
+psychedelia, 5
+free jazz, 2
+beefheart, 0
+life, 5
+childhood, 5
+zappa, 0
+lack, 5
+commercial success, 4
+european tour, 4
+new wave, 2
+relationship, 5
+retirement, 5
+interest, 5
+biography, 5
+early life, 5
+subjects, 5
+animals, 5
+trout mask replica, 5
+vliet, 5
+claim, 5
+lecturer, 5
+los angeles, 5
+accounts, 5
+statement, 5
+parents, 5
+perception, 5
+door, 5
+room, 5
+family, 5
+environment, 5
+paintings, 5
+taste, 5
+chicago blues, 2
+interests, 5
+founders, 5
+frank zappa, 0
+record, 1
+brother, 5
+extent, 5
+school, 5
+associates, 5
+high school, 5
+education, 5
+experience, 5
+john french, 0
+difficulty, 5
+morning, 5
+mother, 5
+belief, 5
+child, 5
+songs, 4
+term, 5
+bills, 5
+heart, 5
+appearance, 5
+late night, 5
+david letterman, 5
+society, 5
+roles, 5
+following year, 5
+thing, 5
+entry, 5
+southern california, 5
+magic band, 0
+san francisco, 5
+deal, 5
+demos, 5
+contract, 5
+perry, 5
+hollywood, 5
+recording, 1
+tracks, 1
+demo, 4
+moon, 5
+piano, 3
+role, 5
+collaboration, 4
+permission, 5
+arrival, 5
+spring, 5
+allmusic, 5
+recognition, 5
+beatles, 0
+john lennon, 0
+paul mccartney, 0
+lennon, 0
+plans, 5
+lyric, 4
+response, 5
+support, 5
+peace, 5
+mccartney, 0
+meeting, 5
+success, 5
+ry cooder, 0
+works, 5
+cooder, 0
+material, 5
+quality, 5
+heart attack, 5
+girl, 5
+fish, 5
+mouth, 5
+spot, 5
+means, 5
+monkees, 5
+french, 5
+yardbirds, 0
+turn, 5
+second album, 1
+double album, 1
+pieces, 5
+rejection, 5
+guitars, 3
+way, 5
+boundaries, 5
+vinyl, 1
+image, 5
+captain, 5
+germany, 5
+saturday, 5
+beach, 5
+moves, 5
+picture, 5
+situation, 5
+first release, 1
+manner, 5
+cd, 1
+session, 5
+house, 5
+departure, 5
+remainder, 5
+boston, 5
+rehearsals, 4
+vision, 5
+tears, 5
+fingers, 5
+income, 5
+contributions, 5
+food, 5
+month, 5
+eyes, 5
+walls, 5
+blood, 5
+request, 5
+player, 0
+skill, 5
+john cage, 0
+creation, 5
+bass lines, 4
+paper, 5
+wide variety, 2
+musical styles, 2
+instance, 5
+drugs, 5
+spirit, 5
+poetry, 2
+illusion, 5
+windows, 5
+improvisation, 4
+popular music, 2
+baby, 5
+weeks, 5
+uk albums chart, 1
+excerpts, 5
+musical instruments, 3
+middle, 5
+road, 5
+museum, 5
+programs, 5
+invention, 5
+robert christgau, 4
+print, 5
+download, 5
+atmosphere, 5
+critic, 5
+jam, 5
+groups, 0
+attempt, 5
+beat, 4
+problem, 5
+trinidad, 5
+fans, 4
+venus, 5
+trend, 5
+vocalist, 0
+concepts, 5
+core, 5
+formation, 5
+producers, 1
+next album, 1
+knowledge, 5
+review, 5
+description, 5
+new band, 0
+listeners, 4
+predecessor, 5
+copies, 5
+fall, 5
+point, 5
+sam, 5
+texture, 5
+imagery, 5
+fate, 5
+ice, 5
+new album, 1
+accordion, 3
+synthesizer, 3
+percussion, 3
+heaven, 5
+note, 4
+new material, 3
+nbc, 5
+title track, 1
+mtv, 4
+reference, 5
+humor, 5
+barnes, 5
+kind, 5
+limited edition, 1
+dvd, 1
+book, 5
+early age, 5
+painting, 5
+musical career, 4
+mid-1980s, 5
+horn, 5
+fan, 5
+artwork, 5
+new york, 5
+books, 5
+analysis, 5
+arts, 5
+essays, 5
+early 1980s, 5
+sense, 5
+director, 5
+edge, 5
+contrast, 5
+moment, 5
+sun, 5
+late 1990s, 5
+new york city, 5
+wife, 5
+illness, 5
+friends, 5
+musical director, 1
+heat, 5
+loss, 5
+late 1970s, 5
+residence, 5
+singer, 0
+concern, 5
+earth, 5
+compilation album, 1
+death, 5
+hospital, 5
+gallery, 5
+cause, 5
+conclusion, 5
+teenagers, 5
+major label, 1
+efforts, 5
+friendship, 5
+concerts, 4
+foundations, 5
+concept, 5
+bands, 0
+manager, 5
+television, 5
+first album, 1
+skills, 5
+law, 5
+script, 5
+involvement, 5
+guitarist, 0
+lead, 5
+effect, 5
+total, 5
+credits, 5
+structure, 5
+job, 5
+stuff, 5
+williams, 5
+words, 5
+subject, 5
+bbc, 5
+genius, 5
+week, 5
+rock music, 2
+american music, 2
+guardian, 5
+energy, 5
+ideas, 5
+sort, 5
+ear, 5
+context, 5
+styles, 2
+america, 5
+1960s, 5
+1970s, 5
+art rock, 2
+velvet underground, 0
+tv, 5
+pioneers, 5
+industrial music, 2
+influences, 5
+early days, 5
+punk rock, 2
+clash, 5
+sex pistols, 0
+lot, 5
+purpose, 5
+early 1970s, 5
+post, 5
+tribute, 5
+likes, 5
+sonic youth, 5
+siouxsie, 0
+david byrne, 0
+talking heads, 5
+clothes, 5
+coffee, 5
+future, 5
+verse, 4
+beck, 5
+joke, 5
+depth, 5
+boogie, 5
+michael, 5
+scenes, 4
+andrew, 5
+cambridge, 5
+john, 5
+bill, 5
+english, 5
+peter, 5
+news, 5
+commentary, 5
+italian, 5
+good example, 5
+aria, 5
+terms, 5
+pattern, 5
+middle ages, 5
+new grove dictionary, 5
+stanley sadie, 4
+ed, 5
+singing, 4
+basel, 5
+switzerland, 5
+parades, 5
+parade, 5
+ireland, 5
+new zealand, 5
+south africa, 5
+south korea, 5
+scotland, 5
+pipes, 5
+republic, 5
+royal air force, 5
+martin, 5
+broadcast, 5
+breakcore, 5
+late 1980s, 5
+length, 5
+idea, 5
+early years, 5
+techno, 2
+b., 5
+rise, 5
+split, 5
+record labels, 1
+section, 5
+harmony, 4
+lords, 5
+journey, 5
+carol, 5
+honor, 5
+composer, 0
+score, 5
+interpretation, 4
+tunes, 4
+fiddle, 3
+celtic music, 2
+tradition, 5
+floor, 5
+heel, 5
+trebles, 2
+region, 5
+18th century, 5
+advent, 5
+radio, 4
+focus, 5
+montreal, 5
+violin, 3
+nations, 5
+area, 5
+schools, 5
+measure, 5
+feet, 5
+bow, 5
+oral tradition, 5
+fame, 5
+sheet music, 2
+virginia, 5
+roll, 5
+pop, 2
+reggae, 2
+transition, 5
+egypt, 5
+popularity, 4
+different styles, 2
+synthesizers, 2
+radio stations, 4
+love, 5
+joy, 5
+regard, 5
+bibliography, 5
+line, 5
+byzantine music, 2
+festivals, 4
+heritage, 5
+constantinople, 5
+decline, 5
+bulgaria, 5
+greece, 5
+article, 5
+establishment, 5
+synthesis, 5
+istanbul, 5
+reform, 5
+notation, 5
+hagia sophia, 5
+degree, 5
+v, 5
+mode, 5
+music theory, 4
+exception, 5
+censorship, 5
+christianity, 5
+science, 5
+bible, 5
+greek, 5
+philosophy, 5
+theory, 5
+practice, 5
+politics, 5
+harmonics, 5
+sources, 5
+discussion, 5
+basis, 5
+harp, 3
+venice, 5
+city, 5
+flute, 3
+bagpipes, 3
+present, 5
+aspect, 5
+empire, 5
+ceremonies, 5
+entrance, 5
+emperor, 5
+choir, 4
+mercy, 5
+manuscript, 5
+occasion, 5
+cross, 5
+christmas, 5
+passage, 5
+funerals, 5
+celebration, 5
+text, 5
+leaders, 5
+reception, 5
+movements, 5
+foot, 5
+boat, 5
+christ, 5
+new form, 5
+prayer, 5
+angels, 5
+exodus, 5
+israel, 5
+writings, 5
+rome, 5
+athens, 5
+congregation, 5
+church, 5
+unison, 5
+recitation, 5
+psalms, 5
+worship, 5
+cases, 5
+fashion, 5
+services, 5
+liturgy, 5
+sanctuary, 5
+equivalent, 5
+sea, 5
+refrain, 4
+stanza, 5
+stanzas, 5
+half, 5
+service, 5
+connection, 5
+civil war, 5
+introduction, 5
+altar, 5
+preparation, 5
+procession, 5
+ceremony, 4
+choirs, 4
+paradise, 5
+vespers, 5
+custom, 5
+verses, 4
+c., 5
+melodies, 4
+respect, 5
+ode, 4
+lessons, 5
+church music, 2
+musical composition, 4
+chant, 4
+manuscripts, 5
+system, 5
+joseph, 5
+era, 5
+original music, 4
+masters, 5
+st. john, 5
+examples, 5
+turkey, 5
+culture, 5
+duration, 5
+touch, 5
+effort, 5
+title, 1
+traditional music, 2
+znamenny chant, 2
+collections, 5
+nights, 5
+christian, 5
+copenhagen, 5
+latin, 5
+volume, 5
+example, 5
+present day, 5
+korea, 5
+china, 5
+gift, 5
+chapter, 5
+kinds, 5
+definition, 5
+autumn, 5
+ground, 5
+pitch, 5
+study, 5
+ministry, 5
+link, 5
+meaning, 5
+century, 5
+cantatas, 5
+oratorio, 5
+instrumental music, 2
+17th century, 5
+cantata, 5
+accompaniment, 5
+trios, 0
+differences, 5
+solo, 0
+portion, 5
+bach, 0
+handel, 0
+possibility, 5
+symphony, 2
+ways, 5
+choral music, 2
+most part, 5
+twentieth century, 5
+soprano, 4
+viola, 3
+cello, 3
+alto, 3
+tenor, 4
+orchestra, 4
+texts, 5
+revolution, 5
+soviet union, 5
+speaker, 5
+il, 5
+karlheinz stockhausen, 0
+benjamin britten, 0
+company, 5
+lamb, 5
+silence, 5
+carlos chávez, 0
+c, 5
+difference, 5
+airs, 5
+publications, 5
+paris, 5
+grove music, 2
+online, 4
+debut album, 1
+belgium, 5
+second single, 1
+austria, 5
+stars, 5
+dream, 5
+studio albums, 1
+live albums, 1
+louisiana, 5
+pops, 2
+world music, 2
+pianist, 0
+organist, 0
+conductor, 5
+great britain, 5
+netherlands, 5
+norway, 5
+denmark, 5
+japan, 5
+taiwan, 5
+question, 5
+height, 5
+wilson, 5
+scott, 5
+copyright, 4
+first recording, 1
+variants, 5
+mid-1990s, 5
+marriage, 5
+titles, 1
+1930s, 5
+billboard, 4
+wreck, 5
+old, 5
+monroe, 5
+spencer, 5
+north carolina, 5
+train, 5
+country music, 2
+engineer, 5
+reputation, 5
+philadelphia, 5
+minutes, 5
+speed, 5
+run, 5
+route, 5
+combination, 5
+signs, 5
+engineers, 5
+fire, 5
+incident, 5
+charlotte, 5
+speech, 5
+grade, 5
+minute, 5
+april, 5
+inspiration, 5
+feat, 4
+johnny cash, 0
+woody guthrie, 0
+pete seeger, 0
+banjo, 2
+ship, 5
+cousin, 5
+victims, 5
+victor, 5
+favor, 5
+orders, 5
+popular culture, 5
+late 1940s, 5
+gig, 4
+video game, 5
+novel, 5
+audio, 4
+grave, 5
+bed, 5
+boom, 5
+piece, 5
+darkness, 5
+victory, 5
+glory, 5
+unit, 5
+phrases, 5
+tonic, 5
+ones, 5
+d, 5
+tuning, 5
+close, 5
+george harrison, 0
+february, 5
+absence, 5
+acoustic guitar, 3
+tambura, 3
+harrison, 0
+street, 5
+sound effects, 3
+ep, 1
+effects, 5
+stereo, 4
+footage, 5
+sessions, 5
+gap, 5
+phil spector, 0
+spector, 0
+tape, 1
+master, 5
+anthology, 5
+instrumentation, 3
+legacy, 5
+direction, 5
+madrid, 5
+50th anniversary, 5
+waves, 5
+electric guitar, 3
+maracas, 3
+sitar, 3
+strings, 3
+george martin, 0
+remix, 4
+doors, 0
+bono, 0
+brian wilson, 0
+billie joe armstrong, 0
+stevie wonder, 0
+brussels, 5
+solo career, 0
+new songs, 4
+churches, 5
+poet, 4
+carols, 5
+shepherds, 0
+kings, 5
+message, 5
+jesus, 5
+stagehands, 5
+league, 5
+strike, 5
+broadway, 5
+building, 5
+theaters, 4
+negotiations, 5
+conditions, 5
+equipment, 5
+opportunities, 5
+union, 5
+numbers, 5
+rule, 5
+workers, 5
+midnight, 5
+arrangements, 5
+exchange, 5
+benefits, 5
+classes, 5
+membership, 5
+talks, 5
+progress, 5
+jr., 5
+break, 5
+duty, 5
+sunday, 5
+office, 5
+first show, 5
+musical, 4
+business, 5
+attendance, 5
+impact, 5
+dates, 5
+cast, 5
+theatre, 4
+judge, 5
+case, 5
+brothers, 5
+journalists, 5
+long time, 5
+awards, 4
+releases, 1
+dvds, 4
+plot, 5
+reasons, 5
+friend, 5
+sisters, 5
+police, 5
+accolades, 5
+archive, 5
+films, 5
+everybody, 5
+actor, 5
+graffiti, 5
+imdb, 5
+seattle, 5
+magazine, 5
+poland, 5
+stories, 5
+member, 5
+port, 5
+dreams, 5
+hearts, 5
+corner, 5
+devotion, 5
+gabriel, 5
+britain, 5
+mass, 5
+angel, 5
+virgin, 5
+queen, 5
+grace, 5
+care, 5
+struggle, 5
+shoulder, 5
+help, 5
+exile, 5
+thee, 5
+indian classical music, 2
+town, 5
+patrons, 5
+distinction, 5
+gharana, 5
+peak, 5
+king, 5
+students, 5
+disciples, 5
+pt, 5
+disciple, 5
+seasons, 5
+duets, 5
+beauty, 5
+origins, 5
+teaching, 5
+ethnomusicology, 2
+bhajan, 2
+saints, 5
+deity, 5
+bhajans, 2
+methods, 5
+homage, 5
+faith, 5
+roots, 5
+studies, 5
+gods, 5
+themes, 5
+legends, 5
+individual, 5
+community, 5
+identity, 5
+dancing, 5
+oxford university press, 5
+drama, 5
+german, 5
+bbc radio, 4
+award, 4
+africa, 5
+americas, 5
+north africa, 5
+nominees, 4
+panel, 5
+winners, 5
+ocean, 5
+edinburgh, 5
+decision, 5
+prizes, 4
+olympia, 5
+lila downs, 5
+independence, 5
+grammy award, 4
+sounds, 4
+bm, 5
+journal, 5
+pp, 5
+distortion, 5
+samples, 5
+signal, 5
+frequency, 5
+sample rate, 5
+consequence, 5
+sampling, 4
+increase, 5
+memory, 5
+video games, 5
+sample, 4
+noise, 5
+control, 5
+electronic music, 2
+class, 5
+tony, 5
+blue devils, 5
+devil, 5
+first season, 5
+girls, 5
+units, 5
+flags, 5
+dci, 5
+ages, 5
+bugle, 3
+activity, 5
+concert, 4
+cooperation, 5
+management, 5
+pioneer, 5
+lights, 5
+championship, 5
+calypso, 5
+demand, 5
+tapes, 1
+bluegrass, 2
+format, 5
+date, 5
+nashville, 5
+lps, 5
+countries, 5
+regions, 5
+record label, 1
+page, 5
+massachusetts, 5
+harry, 5
+characteristics, 5
+view, 5
+perspective, 5
+genesis, 5
+debut, 5
+foundation, 5
+pipers, 0
+drummers, 0
+thomas, 5
+cuba, 5
+nineteenth century, 5
+feelings, 5
+bolero, 4
+spanish, 5
+renaissance, 5
+vocal music, 4
+argentina, 5
+notable artists, 0
+cairo, 5
+traditional songs, 2
+sections, 5
+accents, 5
+dancer, 5
+west, 5
+arabic music, 2
+freedom, 5
+markets, 5
+recording studio, 1
+jamaica, 5
+latter half, 5
+contemporaries, 5
+microphones, 3
+hiatus, 4
+later years, 5
+cabaret, 4
+academy, 5
+originals, 5
+vienna, 5
+weapons, 5
+uniforms, 5
+fourth studio album, 1
+hell, 5
+ensemble, 5
+organizations, 5
+wall, 5
+bebop, 2
+jazz, 2
+soloists, 0
+rhythm section, 4
+dizzy gillespie, 0
+variation, 5
+press, 5
+trends, 5
+bass drum, 3
+approach, 5
+swing, 5
+young, 5
+solos, 4
+phrasing, 5
+breath, 5
+parker, 5
+late 1930s, 5
+chords, 3
+resurgence, 5
+1940s, 5
+gillespie, 0
+new music, 2
+beats, 4
+new style, 2
+importance, 5
+bar, 5
+bassist, 0
+techniques, 5
+bars, 5
+miles davis, 0
+participants, 5
+vocalists, 0
+baritone, 0
+leader, 5
+trumpet, 3
+riff, 4
+tunisia, 5
+attitudes, 5
+generation, 5
+second wave, 2
+early 1950s, 5
+awareness, 5
+mid-1950s, 5
+adaptation, 5
+movement, 5
+musical style, 2
+ears, 5
+glenn miller, 0
+modern music, 2
+start, 5
+chord, 3
+experiences, 5
+claude debussy, 0
+desire, 5
+self, 5
+search, 5
+understanding, 5
+quartets, 5
+double bass, 3
+horns, 5
+capacity, 5
+big bands, 0
+davis, 5
+major influence, 5
+late 1960s, 5
+1980s, 5
+beat generation, 4
+poets, 4
+dress, 5
+followers, 5
+attitude, 5
+tribe, 5
+clarinet, 3
+trombone, 3
+ragtime, 2
+fusion, 5
+co., 5
+berkeley, 5
+bird, 5
+oxford, 5
+north, 5
+incorporation, 5
+country, 5
+pickup, 5
+exceptions, 5
+publication, 5
+portland, 5
+oregon, 5
+genres, 2
+violins, 3
+art music, 4
+georgia, 5
+neck, 5
+intensity, 5
+tension, 5
+billy, 5
+1920s, 5
+bluegrass music, 2
+bill monroe, 0
+rolling stones, 0
+mozart, 0
+concerto, 4
+critics, 5
+matter, 5
+usage, 5
+rock bands, 0
+john mayall, 0
+bluesbreakers, 0
+john lee hooker, 0
+bob dylan, 0
+feedback, 5
+led zeppelin, 0
+michael jackson, 0
+jimi hendrix, 0
+topic, 5
+violinist, 0
+willie nelson, 0
+controversy, 5
+feature, 5
+b, 5
+nova scotia, 5
+routledge, 5
+workshops, 5
+professor, 5
+editor, 5
+exhibition, 5
+lp, 5
+project, 5
+pupil, 5
+fine arts, 5
+integral part, 5
+results, 5
+process, 5
+commercials, 5
+repetition, 4
+sale, 5
+questions, 5
+regards, 5
+chants, 4
+assistant, 5
+footnotes, 5
+sons, 4
+hit, 4
+terrorism, 5
+channel, 5
+millions, 5
+teachers, 5
+arab world, 5
+journalist, 5
+human rights, 5
+village, 5
+live performances, 4
+right, 5
+dictionary, 5
+finger, 5
+anita kerr, 0
+arranger, 5
+tennessee, 5
+lady, 5
+decca records, 1
+talents, 4
+burl ives, 5
+contest, 5
+quartet, 5
+kerr, 0
+anita kerr singers, 0
+rca victor, 1
+other artists, 0
+late 1950s, 5
+early 1960s, 5
+daughters, 5
+pop music, 2
+warner bros. records, 1
+cover version, 1
+trio, 0
+woman, 5
+single, 4
+simon, 5
+recording sessions, 4
+sweden, 5
+rank, 5
+promise, 5
+island, 5
+tale, 5
+goodbye, 5
+wine, 5
+voices, 4
+bert kaempfert, 0
+reissue, 5
+holiday, 5
+motion picture, 5
+sky, 5
+lovers, 5
+winter, 5
+honors, 5
+discogs, 5
+oslo, 5
+battle, 5
+soldiers, 5
+horses, 5
+english organist, 5
+hymn, 2
+first performance, 4
+edition, 5
+choralwiki, 4
+lahore, 5
+pakistan, 5
+vocal, 4
+late 19th century, 5
+student, 5
+tabla, 5
+teacher, 5
+bomba, 5
+puerto rico, 5
+mixture, 5
+choruses, 4
+husband, 5
+slaves, 5
+problems, 5
+generations, 5
+mainstream, 5
+1950s, 5
+martinique, 5
+bit, 5
+gender, 5
+p., 5
+lead vocalist, 0
+peanut butter conspiracy, 5
+robison, 5
+rock band, 0
+beginnings, 5
+las vegas, 5
+early career, 5
+backing vocals, 4
+lineup, 5
+club, 5
+columbia records, 1
+psychedelic rock, 2
+harmonies, 4
+airplay, 5
+movies, 5
+hair, 5
+arizona, 5
+rush, 5
+clubs, 5
+live, 4
+tokyo, 5
+progressive rock, 2
+ethnic music, 2
+world fusion, 5
+worldbeat, 5
+asia, 5
+music industry, 1
+musical genres, 2
+mystery, 5
+middle east, 5
+south america, 5
+archives, 5
+cultures, 5
+own music, 5
+west africa, 5
+experimentation, 5
+paul simon, 0
+ambient music, 2
+gregorian chant, 2
+jazz music, 2
+women, 5
+marketing, 5
+peter gabriel, 0
+record companies, 1
+network, 5
+reason, 5
+issue, 5
+store, 5
+selection, 5
+labels, 1
+nme, 5
+djs, 0
+information, 5
+chart, 5
+decades, 5
+syria, 5
+original compositions, 4
+percussion instruments, 3
+vietnam, 5
+views, 5
+music festival, 4
+womad, 4
+enthusiasm, 5
+bbc asian network, 5
+abc, 5
+youssou n'dour, 0
+bangladesh, 5
+weekend, 5
+hungary, 5
+womex, 4
+iceland, 5
+indonesia, 5
+music festivals, 4
+macedonia, 5
+malaysia, 5
+difficulties, 5
+location, 5
+morocco, 5
+portugal, 5
+serbia, 5
+games, 5
+sports, 5
+ukraine, 5
+whitby, 5
+orchestras, 4
+citations, 5
+documentary, 5
+barbershop harmony society, 5
+james, 5
+lives, 4
+reveille, 5
+winner, 5
+barbershop music, 2
+residency, 5
+rain, 5
+inception, 5
+jones, 5
+mark, 5
+ac, 5
+easy listening, 4
+acoustic instruments, 3
+bass guitar, 3
+acoustic guitars, 3
+pianos, 3
+electric guitars, 3
+electronics, 2
+drum machines, 3
+hip hop, 3
+hard rock, 3
+stations, 5
+handful, 5
+frank sinatra, 0
+folk rock, 2
+mid-1970s, 5
+team, 5
+barry manilow, 0
+mix, 4
+elvis presley, 0
+growth, 5
+phil collins, 0
+collins, 0
+hot, 5
+wind, 5
+disc, 1
+need, 5
+acceptance, 5
+alternative rock, 2
+market, 5
+backstreet boys, 5
+subgenre, 2
+african americans, 5
+great deal, 5
+r&b, 2
+smooth jazz, 2
+dance music, 2
+formats, 5
+pitches, 5
+fleetwood mac, 5
+brand, 5
+madonna, 0
+cher, 5
+westlife, 5
+moody blues, 2
+jackson, 0
+solo artist, 0
+bing crosby, 0
+void, 5
+atlanta, 5
+contests, 5
+sydney, 5
+melbourne, 5
+byrds, 5
+ravi shankar, 0
+crosby, 0
+shankar, 0
+autobiography, 5
+recording session, 1
+amplifier, 3
+kinks, 0
+bayila, 5
+sri lanka, 5
+portuguese, 5
+satire, 5
+communities, 5
+tambourine, 3
+mandolin, 3
+marks, 5
+trumpets, 3
+charity, 5
+keyboard, 5
+milan, 5
+position, 5
+voice teacher,  4
+la scala, 4
+critical acclaim, 5
+english version, 4
+pale, 5
+duet, 5
+war, 5
+xou da xuxa, 5
+brazilian singer, 0
+brazil, 5
+xuxa, 5
+participation, 5
+first week, 5
+track listing, 1
+attack, 5
+heroes, 5
+naples, 5
+own right, 5
+14th century, 5
+armenia, 5
+stevens, 5
+objects, 5
+south carolina, 5
+buttons, 5
+weight, 5
+funeral, 5
+display, 5
+florence, 5
+tonight show, 5
+personal life, 5
+hanover, 5
+earl, 5
+nickname, 5
+credit, 5
+troops, 5
+pseudonym, 5
+mary, 5
+parliament, 5
+catholic church, 5
+wales, 5
+wars, 5
+act, 5
+rights, 5
+liberty, 5
+dozens, 5
+plays, 4
+soloist, 0
+conductors, 5
+maria, 5
+scores, 5
+cage, 5
+teenager, 5
+music director, 1
+detroit, 5
+michigan, 5
+live recordings, 1
+presence, 5
+invitation, 5
+grammy, 4
+memoirs, 5
+maryland, 5
+richmond, 5
+filmography, 5
+notable bands, 0
+bad brains, 5
+brooklyn, 5
+caribbean, 5
+immigrants, 5
+families, 5
+uk charts, 5
+björk, 0
+remixes, 4
+bhangra music, 2
+britney spears, 0
+fixture, 5
+asian dub foundation, 5
+soundtracks, 1
+mainstream success, 4
+electric bass, 3
+guide, 5
+intent, 5
+hand, 5
+dark, 5
+feast, 5
+fifth, 5
+college, 5
+christmas eve, 5
+youth, 5
+hall, 5
+first verse, 4
+steps, 5
+ohio, 5
+alabama, 5
+sciences, 5
+kentucky, 5
+authors, 5
+bells, 5
+rca, 5
+crown, 5
+itunes, 4
+proceeds, 5
+contribution, 5
+new lyrics, 4
+electronica, 2
+icon, 5
+water, 5
+timing, 5
+priest, 5
+space, 5
+significance, 5
+object, 5
+emotions, 5
+performer, 0
+circle, 5
+activities, 5
+strength, 5
+forces, 5
+own version, 5
+apache, 5
+original version, 4
+shadows, 5
+flip side, 5
+instrumental, 2
+daughter, 5
+guitarists, 0
+lead guitar, 0
+staple, 5
+hamburg, 5
+hip hop music, 2
+anthem, 5
+recording engineer, 1
+names, 5
+cities, 5
+live version, 4
+live album, 1
+british blues, 2
+funk, 2
+cover versions, 4
+blue, 2
+accompanying music video, 4
+black sabbath, 0
+moscow, 5
+projects, 5
+sony music, 1
+platinum, 5
+live shows, 4
+jeff beck, 0
+david bowie, 0
+buenos aires, 5
+farm,  5
+individuals, 5
+lifetime, 5
+ambrosian chant, 2
+ambrosian rite, 5
+legend, 5
+roman rite, 5
+actions, 5
+tones, 4
+cadence, 5
+psalm, 5
+gloria, 5
+gospel, 2
+richard, 5
+access, 5
+lute, 5
+16th century, 5
+ballet, 4
+volumes, 5
+vocal range, 4
+octave, 4
+articles, 5
+site, 5
+compilation albums, 1
+certified gold, 1
+algorithmic composition, 5
+technique, 5
+algorithms, 5
+computers, 5
+models, 5
+aid, 5
+model, 5
+systems, 5
+new sound, 4
+medium, 5
+nature, 5
+audio recording, 1
+resources, 5
+generative music, 2
+programming, 5
+vol, 5
+cambridge university press, 5
+brown, 5
+miranda, 5
+intro, 1
+black, 5
+depression, 5
+suicide, 5
+comedy, 5
+comedians, 5
+positive reviews, 4
+fear, 5
+encouragement, 5
+independent, 5
+aspects, 5
+protagonist, 5
+amsterdam, 5
+grammy awards, 4
+royal college, 5
+britten, 5
+conflict, 5
+oldham, 5
+gibson, 5
+leonard bernstein, 0
+arrangement, 5
+tales, 5
+clapton, 5
+cream, 5
+incidental music, 2
+revival, 5
+television series, 5
+pittsburgh, 5
+pennsylvania, 5
+lock, 5
+amahl, 5
+trouble, 5
+booklet, 5
+reality, 5
+premiere, 5
+screen, 5
+program, 5
+norm, 5
+box, 5
+kingdom, 5
+leg, 5
+thanks, 5
+cast recordings, 1
+visitors, 5
+stockholm, 5
+rudolph, 5
+unity, 5
+lateef, 5
+photography, 5
+faculty, 5
+adam, 5
+meta records, 1
+yusef, 5
+pictures, 5
+smith, 5
+bowie, 0
+windham hill, 1
+schmidt, 5
+polygram, 5
+thoughts, 5
+dust, 5
+fiction, 5
+step, 5
+boys, 5
+prison, 5
+kiss, 5
+advantage, 5
+howard, 5
+benefit, 5
+industry, 5
+features, 4
+conjunction, 5
+collaborations, 4
+consecutive weeks, 5
+creativity, 5
+tv shows, 5
+ave maria, 4
+cradle, 5
+facebook, 5
+twitter, 5
+myspace, 4
+anubhava, 5
+wide range, 5
+impression, 5
+emotion, 5
+mood, 5
+feeling, 5
+consciousness, 5
+extension, 5
+anger, 5
+colour, 5
+21st century, 5
+gaga, 0
+similarities, 5
+race, 5
+television shows, 5
+glee, 5
+first song, 1
+liverpool, 5
+manchester, 5
+entertainment weekly, 5
+stroke, 5
+second verse, 4
+slant magazine, 5
+machine, 5
+cappella, 4
+time signature, 5
+tempo, 4
+chord progression, 4
+chance, 5
+gay, 5
+born, 5
+signature, 5
+music critics, 4
+hook, 5
+daily telegraph, 5
+los angeles times, 5
+comparisons, 5
+best song, 1
+availability, 5
+australian recording industry association, 1
+certified platinum, 1
+finland, 5
+birthplace, 5
+choreography, 5
+humanity, 5
+evil, 5
+kids, 5
+videos, 5
+e, 5
+cinema, 5
+partner, 5
+set list, 5
+mexico, 5
+second season, 5
+fox, 5
+yankovic, 0
+first single, 1
+sequence, 5
+appreciation, 5
+first wave, 5
+heavy metal, 2
+alternative music, 2
+bush, 5
+spread, 5
+brisbane, 5
+mid-1960s, 5
+emergence, 5
+bobbejaan schoepen, 0
+vaudeville, 5
+schoepen, 0
+bobbejaanland, 0
+first half, 5
+repertoire, 5
+robert, 5
+sister, 5
+alternative, 5
+mountain, 5
+contact, 5
+frankfurt, 5
+berlin, 5
+tours, 5
+breakthrough, 5
+missouri, 5
+heath, 5
+shadow, 5
+horse, 5
+leading role, 5
+park, 5
+germans, 5
+record company, 1
+lifetime achievement award, 4
+miami, 5
+cancer, 5
+nominations, 4
+dallas, 5
+honour, 5
+eurovision song contest, 4
+world war ii, 5
+operas, 4
+césar franck, 5
+dijon, 5
+bassists, 0
+same day, 5
+opening, 5
+microphone, 3
+adoption, 5
+symbol, 5
+storm, 5
+army, 5
+english translation, 5
+ny, 5
+library, 5
+apo hiking society, 5
+hero, 5
+danny javier, 0
+apo, 5
+careers, 5
+trip, 5
+dinner, 5
+singapore, 5
+noel cabangon, 0
+universal records, 1
+compilations, 1
+smile, 5
+guest, 5
+prelude, 5
+carnegie hall, 4
+christmas carol, 5
+sacred music, 2
+kerouac, 5
+underground, 5
+conversation, 5
+personality, 5
+jokes, 5
+product, 5
+rebellion, 5
+subculture, 5
+buddhism, 5
+figures, 5
+americans, 5
+goal, 5
+male, 5
+crime, 5
+violence, 5
+nightclub, 4
+backgrounds, 5
+passion, 5
+timeline, 5
+ii, 5
+batten, 5
+denver, 5
+hardcore punk, 2
+straight edge, 5
+harpsichord, 3
+trailer, 5
+u, 5
+androgyny, 5
+shift, 5
+wake, 5
+billboard charts, 4
+garbage, 5
+third album, 4
+madison, 5
+nightclubs, 4
+live performance, 4
+star, 5
+manson, 5
+clothing, 5
+ash grove, 5
+interaction, 5
+muddy waters, 0
+phil ochs, 0
+arlo guthrie, 0
+guy, 5
+chuck berry, 0
+chile, 5
+mick jagger, 0
+aim, 5
+alaska, 5
+wave, 5
+institute, 5
+testament, 5
+independent record label, 1
+bmg, 1
+billboard magazine, 5
+roster, 5
+solo piano, 3
+distribution, 5
+yanni, 0
+sony, 5
+liner notes, 4
+barcelona, 5
+munich, 5
+partnership, 5
+sweet adelines international, 5
+barbershop, 5
+barbershop harmony, 5
+fifths, 5
+t, 5
+root, 5
+eye, 5
+arabic pop, 2
+songwriting, 4
+cds, 1
+royalties, 5
+level, 5
+exposure, 5
+sexuality, 5
+alcohol, 5
+mid, 5
+prominence, 5
+chalga, 5
+westminster abbey, 5
+estate, 5
+preservation, 5
+international music score library project, 5
+detail, 5
+syllables, 5
+luther, 5
+hill, 5
+setting, 5
+settings, 5
+practices, 5
+diversity, 5
+opposition, 5
+anybody, 5
+output, 5
+moore, 5
+grateful dead, 5
+n'dour, 5
+few years, 5
+bruce springsteen, 0
+lou reed, 0
+activism, 5
+lion, 5
+bouyon, 5
+dominica, 5
+guadeloupe, 5
+musical genre, 2
+technology, 5
+dancehall, 2
+carnival, 4
+sets, 4
+hurricanes, 5
+hotel, 5
+hope, 5
+william, 5
+marching band, 5
+leadership, 5
+white, 5
+original members, 5
+nice, 5
+verlet, 5
+birmingham, 5
+pupils, 5
+participant, 5
+fisher, 5
+arias, 5
+convention, 5
+nigeria, 5
+haiti, 5
+zounds, 0
+crass, 5
+bess, 5
+f, 5
+teens, 5
+boy bands, 0
+topics, 5
+soul music, 2
+block, 5
+promotion, 5
+britpop, 2
+indie rock, 2
+oasis, 5
+replacement, 5
+hong kong, 5
+talent, 5
+craft, 5
+bo diddley, 0
+blues incorporated, 5
+british invasion, 5
+amplification, 5
+newcastle, 5
+belfast, 5
+emi, 5
+second world war, 5
+explosion, 5
+waters, 5
+jimmy page, 0
+wolf, 5
+british artists, 5
+recording contract, 1
+decca, 1
+pink floyd, 0
+eric clapton, 0
+eps, 5
+new name, 5
+hit singles, 1
+woodstock, 4
+jimi hendrix experience, 4
+green, 5
+jethro tull, 0
+deep purple, 0
+eddie, 5
+classical music, 2
+table, 5
+blues rock, 2
+making, 5
+matador records, 1
+gun, 5
+communication, 5
+portions, 5
+hole, 5
+rhino records, 1
+trance, 5
+musique concrète, 2
+timbre, 5
+listener, 4
+loudspeakers, 4
+distance, 5
+quebec, 5
+finale, 5
+range, 5
+black midi, 0
+complexity, 5
+catalogue, 5
+louis armstrong, 0
+wanna, 5
+solo violin, 4
+pipa, 5
+shanghai, 5
+lover, 5
+g major, 5
+yellow river, 4
+zhu, 0
+timpani, 1
+chinese, 5
+popular song, 1
+cbs, 5
+rumors, 5
+charge, 5
+cantor, 5
+florida, 5
+russian, 5
+leipzig, 5
+publisher, 5
+doctor, 5
+sketches, 5
+doubt, 5
+sin, 5
+sailors, 5
+cost, 5
+construction, 5
+look, 5
+beijing, 5
+world premiere, 5
+paul, 5
+d.c., 5
+miller, 5
+chair, 5
+props, 5
+assistant organist, 0
+keith, 5
+other hand, 5
+townshend, 0
+hendrix, 0
+rendition, 4
+matthew, 5
+giants, 5
+la, 5
+extended plays, 4
+divisions, 5
+cologne, 5
+intention, 5
+czukay, 0
+delay, 5
+garage rock, 2
+advice, 5
+japanese, 5
+next few years, 5
+cancellation, 5
+reunion, 5
+chaos, 5
+points, 5
+peers, 5
+brian eno, 0
+short film, 5
+kraftwerk, 0
+kanye west, 0
+baltimore, 5
+winds, 5
+mudhoney, 0
+blend, 5
+gamelan, 4
+latin america, 5
+samba, 5
+tango, 5
+fm, 5
+government, 5
+conservatory, 5
+black metal, 2
+venom, 5
+bathory, 0
+hellhammer, 0
+burzum, 0
+satanism, 5
+destruction, 5
+ideology, 5
+euronymous, 5
+motörhead, 0
+murder, 5
+basement, 5
+dead, 5
+vikernes, 0
+houston, 0
+filth, 5
+racism, 5
+relationships, 5
+satan, 5
+subject matter, 5
+woods, 5
+russia, 5
+narrator, 5
+advertisement, 5
+dean, 5
+rage, 5
+excellence, 5
+illinois, 5
+camp, 5
+pearl jam, 0
+centre, 5
+masses, 5
+beethoven, 0
+theme song, 1
+wild man fischer, 5
+fischer, 5
+ecstasy, 5
+aftermath, 5
+american idiot, 5
+armstrong, 0
+dirnt, 0
+green day, 5
+relation, 5
+nation, 5
+metallica, 0
+bassline, 2
+details, 5
+andrews sisters, 0
+choristers, 0
+mckie, 5
+duke, 5
+g, 5
+rio de janeiro, 5
+time period, 5
+actress, 5
+billboard chart, 5
+episodes, 5
+romania, 5
+programme, 5
+discs, 1
+xuxa só para baixinhos, 1
+protest, 5
+rio, 5
+prize, 5
+knee, 5
+dinesh subasinghe, 0
+best album, 1
+grime, 2
+cyprus, 5
+fight, 5
+potential, 5
+tuva, 5
+alash, 5
+funding, 5
+santiago de cuba, 5
+mamarrachos, 5
+santiago, 5
+motion, 5
+sex, 5
+battles, 5
+boots, 5
+havana, 5
+party, 5
+encyclopedia, 5
+prince, 5
+musical theatre, 2
+royal albert hall, 5
+wonderland, 5
+signals, 5
+national anthem, 5
+bugle call, 4
+akala, 0
+rap, 2
+fourth album, 1
+workshop, 5
+enemy, 5
+marshall, 5
+radio airplay, 4
+batcave, 5
+shobhakar, 0
+grandfather, 5
+megadeth, 0
+oud, 3
+uncle, 5
+rapper, 0
+iraq, 5
+innovations, 5
+algeria, 5
+chaabi, 5
+baqashot, 5
+confusion, 5
+guard, 5
+warning, 5
+recall, 5
+completion, 5
+tattoo, 5
+soldier, 5
+organists, 0
+norman, 5
+afghanistan, 5
+eastern europe, 5
+world pump festival, 4
+wpf, 4
+andamiro, 5
+salsa, 2
+female, 5
+summit, 5
+manhattan, 5
+remembrance, 5
+commerce, 5
+links, 5
+mississippi, 5
+diddley, 5
+sullivan, 5
+albert collins, 0
+johnson, 5
+lawsuit, 5
+hometown, 5
+explanation, 5
+legs, 5
+brainvoyager, 5
+solo albums, 1
+musicals, 1
+walker, 5
+gilbert, 5
+carmen, 5
+americano, 5
+latin music, 2
+entirety, 5
+alice, 5
+theatres, 5
+palos, 5
+heavy metal music, 2
+grunge, 2
+flight, 5
+libretto, 4
+wuorinen, 0
+wagner, 0
+first part, 5
+publicity, 5
+diplo, 0
+são paulo, 5
+horizon, 5
+riaa, 1
+station, 5
+favour, 5
+original, 5
+closed doors, 5
+correspondence, 5
+william shatner, 0
+shatner, 0
+star trek, 5
+reviewers, 5
+dad, 5
+h.r., 5
+younger brother, 5
+hardcore, 2
+baroque pop, 2
+appropriation, 5
+recording studios, 1
+beach boys, 5
+starting point, 5
+forest, 5
+winans, 0
+cece, 0
+bebe winans, 0
+bebe, 5
+guest appearances, 5
+melocchi, 0
+corelli, 0
+plan, 5
+acid jazz, 2
+peterson, 5
+cool, 5
+chang, 5
+richard wagner, 0
+aesthetics, 5
+meditation, 5
+experimental music, 2
+music hall, 2
+bon iver, 0
+justin vernon, 0
+thrash metal, 2
+slayer, 0
+iron maiden, 0
+van, 5
+chains, 5
+capitol records, 1
+orlando, 5
+restaurant, 5
+oakland, 5
+joe, 5
+greatest hits, 1
+pain, 5
+justice, 5
+iv, 5
+volpiano, 5
+antiphons, 2
+normandy, 5
+fécamp, 5
+positions, 5
+|, 5
+rhyme, 4
+folk songs, 2
+italian opera, 4
+burlesques, 5
+sequel, 5
+ballad opera, 4
+golden age, 5
+middleton, 5
+carmen miranda, 0
+bando da lua, 0
+treatment, 5
+great success, 4
+copacabana, 5
+divorce, 5
+bathroom, 5
+clip, 4
+statue, 5
+sgt, 5
+wonder, 5
+yi, 5
+taylor, 5
+central band, 5
+carnatic music, 2
+trinity, 5
+swaras, 2
+scale, 5
+alapana, 2
+other side, 5
+pa, 5
+fence, 5
+songwriters, 5
+commercial performance, 4
+european countries, 5
+snow, 5
+winter guard, 5
+rifle, 5
+different types, 5
+polyphony, 5
+levels, 5
+columbia, 5
+patiala gharana, 2
+musical traditions, 4
+musicologists, 4
+tchaikovsky, 0
+extensive use, 5
+tendency, 5
+paris opera, 4
+leading roles, 5
+saint petersburg, 5
+covent garden, 5
+stages, 5
+interpretations, 4
+title role, 5
+roberts, 5
+newspaper, 5
+hopes, 5
+thumb, 5
+pick, 5
+pickups, 5
+frets, 5
+basses, 5
+fretboard, 5
+materials, 5
+standard, 5
+middle c, 5
+fretting hand, 5
+ring, 5
+rhythm guitar, 3
+u2, 0
+geezer butler, 0
+contemporary classical music, 2
+contemporary music, 2
+row, 5
+bertso, 2
+basque country, 2
+pierre boulez, 0
+directions, 5
+overture, 5
+mendelssohn, 0
+suite, 5
+ut, 5
+rappers, 0
+burlesque, 5
+euphonium, 5
+strain, 5
+second strain, 5
+lagos, 5
+task, 5
+work songs, 5
+africans, 5
+folk song, 2
+billy bragg, 0
+album version, 1
+seeger, 0
+glasgow, 5
+barney, 0
+bob, 5
+first world war, 5
+wing, 5
+sings, 1
+bhai lal, 0
+eno, 5
+platform, 5
+ambient, 5
+nico, 5
+brian, 5
+collective, 5
+ma, 5
+castrato, 2
+castrati, 2
+puberty, 5
+bell, 5
+art pop, 2
+lake, 5
+pet sounds, 5
+pepper, 4
+nielsen, 0
+womadelaide, 4
+quilter, 5
+antony, 5
+johnsons, 5
+anohni, 0
+release date, 1
+mca, 5
+sherman, 5
+bel canto, 4
+mattel, 5
+crass records, 1
+vocal coach, 4
+azerbaijan, 5
+disney, 5
+bernd ruf, 0
+beast, 5
+lenz, 5
+british rock, 2
+paranoid, 5
+stevie ray vaughan, 0
+cotogni, 5
+attila, 4
+verdi, 5
+lips, 5
+baritones, 2
+canntaireachd, 5
+o, 5
+subhumans, 5
+buddy guy, 5
+baby songs, 2
+alan lomax, 0
+kirwan, 5
+brave, 5
+arion, 5
+bing, 5
+pentatonix, 0
+bronski beat, 0
+air guitar, 3
+york, 5
+best original song, 1
+santana, 5
+carlos santana, 0
+mickey hart, 0
+amen break, 4
+rossini, 0
+donizetti, 0
+organs, 3
+new haven, 5
+knowles, 5
+mc, 5
+mcs, 5
+world circuit, 5
+xẩm, 5
+morris, 5
+ozzy osbourne, 0
+cantopop, 2
+aaron kwok, 0
+whistle register, 4
+auditorium, 5
+kabuki, 5
+antelope, 5
+fraser, 5
+sellé, 5
+appleseed, 5
+donovan, 5
+bragg, 5
+fogerty, 0
+final verse, 4
+xiu xiu, 0
+stewart, 0
+pitchfork, 4
+sepultura, 0
+salutations, 5
+oklahoma, 5
+franck, 5
+conservatoire, 4
+chamber music, 4
+wolfsohn, 1
+hart, 5
+world war i, 5
+main, 5
+bluecoats, 5
+gounaki, 5
+dylan, 5
+red, 5
+amberrose marie, 0
+feeney, 5
+balearic, 2
+ibiza, 5
+catalog number, 5
+john philip sousa, 0
+karl l. king, 0
+sousa, 0
+stripes, 5
+polka, 5
+breakstrain, 5
+andre kostelanetz, 0
+columbia cl, 5
+millin, 5
+public vote, 5
+folk singer, 0
+best group, 0
+best traditional track, 1
+good tradition award, 4
+horizon award, 4
+folk club award, 4
+banana boat, 5
+excelsis deo, 5
+banjo music, 2
+flyers, 5
+bobby mcferrin, 0
+second movement, 5
+dio, 5
+neighborhood, 5
+celebrities, 5
+fingerlings, 5
+duarte, 5
+sub pop, 2
+8stem, 4
+pavitt, 5
+soundgarden, 5
+black flag, 5
+tobago, 5
+makeup, 5
+yellow submarine, 5
+ü, 5
+skrillex, 0
+bieber, 0
+digital, 5
+brasília, 5
+cuban music, 2
+pirates, 5
+ginn, 5
+pettibon, 5
+dukowski, 0
+rollins, 5
+ylvis, 0
+zabur, 5
+qur'an, 5
+asphalt tango, 5
+fateh ali, 0
+baltimore club, 5
+guthrie, 5
+gossow, 0
+anthems, 0
+chichester cathedral, 5
+thurlow, 5
+butler, 5
+instrumental version, 4
+orchestration, 4
+addison, 5
+etage noir special, 5
+almanac singers, 0
+woody, 5
+backmasking, 5
+anus, 5
+ben, 5
+ct, 5
+breath control, 5
+bale, 5
+boyfriend, 5
+bangle seller, 5
+nan, 5
+muththaidhe, 5
+prints, 5
+sabbath, 5
+zentz, 5
+bohemian national home, 5
+balcony, 5
+b.slade, 0
+tonéx, 5
+orb, 5
+yellow magic orchestra, 4
+adventures, 5
+zakir hussain, 0
+fiedler, 5
+phase, 5
+rapture, 5
+børns, 0
+conan, 5
+zarzuela, 5
+whiter shade, 5
+agung, 5
+victoria cross, 5
+beach music, 2
+shag, 5
+voltaire, 5
+zhou, 5
+de la rocha, 5
+mike love, 0
+aor, 5
+rhythm boys, 5
+gary, 5
+xspb, 5
+tony iommi, 0
+iommi, 0
+ronnie james dio, 0
+osbourne, 0
+ward, 5
+ozzy, 0
+acid rock, 2
+danzón, 2
+aguilera, 0
+ymo, 0
+hosono, 5
+sakamoto, 0
+honard, 5
+ypmb, 5
+pablo sorozábal, 0
+guerrero, 5
+mcferrin, 0
+wrsu, 5
+chabad, 5
+niggunim, 5
+kaempfert, 0
+amebix, 0
+bhavai, 5
+kwok, 0
+cantillation, 4
+cantillation marks, 4
+munach, 5
+cantillation signs, 4
+qadma, 5
+watchtower, 5
+woodsongs, 2
+maison du, 5
+pärt, 5
+aranis, 2
+biguine, 5
+rounder records, 1
+catoan, 0
+manilow, 0
+usher, 0
+cm, 5
+beacham theatre, 5
+beacham, 5
+facade, 5
+vulnicura, 5
+medúlla, 1
+biophilia, 1
+ayah marar, 0
+anna russell, 0
+green berets, 5
+bleed, 5
+cmcd, 5
+hackett, 5
+capitol, 5
+zorras, 5
+boogaloo, 2
+bhatt, 5
+california sound, 5
+minoru miki, 0
+gordin, 5
+barnacle bill, 5
+fair young maiden, 5
+ophelia, 5
+16th battalion, 5
+runners, 5
+aksak maboul, 0
+chamber jazz, 2
+spoonful, 5
+★ ★, 5
+★, 5
+stormalong, 5
+alternative metal, 2
+beautiful nubia, 0
+premier class, 5
+phantom knights, 5
+stafford brigades, 5
+div, 5
+landy, 5
+tube, 5
+frith, 5
+drake, 0
+carnyx, 5
+trù, 5
+carolina crown, 5
+bryyn, 0
+hendrickson, 5
+hoskins, 5
+meyer, 5
+aussie, 5
+brundibár, 4
+ela weissberger, 5
+terezin, 5
+art bears, 5
+cutler, 5
+amital, 5
+schutz, 5
+phenomenology, 5
+cardiacs, 5
+astrix, 0
+makin, 5
+bertsolaritza, 4
+basque, 5
+bertsolari, 0
+gipuzkoa, 5
+alek sandar, 1
+alek, 1
+bareilles, 5
+cafe con leche, 5
+nimoy, 0
+buddhar kalaikuzhu, 0
+cast albums, 1
+brütal legend, 5
+activision, 5
+double fine, 5
+schafer, 5
+doviculus, 5
 boys, 0
 song, 1
 david bowie, 0
@@ -790,7 +3991,7 @@ lead singer, 0
 percussionist, 0
 laurie anderson, 0
 baroque, 2
-lead vocalist, 0
+lead vocalist, 0 
 guest appearances, 4
 my chemical romance, 0
 tuba, 3
