@@ -24,7 +24,7 @@ def main():
         f.write(WMT_label)
     print("Finished labelling")
 
-    return irrelevantTerms/totalWords
+    return irrelevantTerms/totalWords, totalWords
 
 if __name__ == '__main__':
-    main()
+    print(main())

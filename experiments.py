@@ -1,4 +1,5 @@
 from TermsExtraction import main as termExtraction
+from TermsExtractionCoreRelated import main as termCoreRelatedWindow
 from CorpusParsing import main as corpusParsing
 from termsLabelling import main as autoLabelling
 from window_based_matrix_creation import main as windowGeneration
@@ -10,15 +11,24 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 if __name__ == '__main__':
-    minFreqValues = [i for i in range(5,30, 2)]
+    windowSizes = [i for i in range(1,15, 1)]
     fracIrrTerms = []
-    for minFreq in minFreqValues:
-        termExtraction(minFreq=minFreq)
+    nbrOfWords = []
+    for windowSize in windowSizes:
+        termCoreRelatedWindow(5, windowSize)
         windowGeneration()
-        fracIrrTerms.append(autoLabelling())
-    plt.plot(minFreqValues, fracIrrTerms)
+        freqIrrTerm, nbrWords = autoLabelling()
+        fracIrrTerms.append(freqIrrTerm)
+        nbrOfWords.append(nbrWords)
+    plt.plot(windowSizes, fracIrrTerms)
     plt.xlabel("MinFreq")
-    plt.ylabel("Homogeneity")
-    plt.title("Homogeneity score depending on the minFreq value. Best Value for : "
-              +str(minFreqValues[np.argmin(fracIrrTerms)]))
+    plt.ylabel("Frequency Irrelevant Terms")
+    plt.title("Frequency of Irrelevant terms depending on the minFreq value.")
+    print("Best Value for :"+str(windowSizes[np.argmin(fracIrrTerms)]))
+    plt.show()
+
+    plt.plot(windowSizes, nbrOfWords)
+    plt.xlabel("MinFreq")
+    plt.ylabel("Number of extracted terms")
+    plt.title("Number of extracted terms depending on the minFreq")
     plt.show()

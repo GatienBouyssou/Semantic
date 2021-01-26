@@ -50,4 +50,4 @@ def printClustersAndComputeHomogeneity(ldaResult, y_true, nbClusters):
     print("Homogeneity : " + str(homo))
     return homo
 if __name__ == '__main__':
-    main()
+    print(main())
