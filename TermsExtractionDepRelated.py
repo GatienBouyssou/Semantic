@@ -5,7 +5,7 @@ nlp = spacy.load('en_core_web_sm')
 from spacy.lang.en.stop_words import STOP_WORDS
 stopWords = set(STOP_WORDS)
 
-def main(minFreq=5, window=2, proportionData=0.1):
+def main(minFreq=5, proportionData=0.1):
     """
     document terms extraction
     """
@@ -17,7 +17,7 @@ def main(minFreq=5, window=2, proportionData=0.1):
 
     terms_file = open(output_file, "w", errors='ignore')
     #compute tf for each term in the corpus
-    tf = computerTf(corpus_dir, window, proportionData)
+    tf = computerTf(corpus_dir, proportionData)
     #if tf of the term is greater than minimum freq save it to the output file
     for term, score in tf.items():
         if score >= minFreq:
@@ -40,9 +40,9 @@ def textContainsConcept(text, concepts):
     return False
 
 
-def findTermsInWindow(chunkOfTexts, allTerms):
-    for chunk in chunkOfTexts:
-        np = removeArticles(chunk.text.lower())
+def getAncestorsOfCoreConcept(relatedTerms, allTerms):
+    for relatedTerm in relatedTerms:
+        np = removeArticles(relatedTerm.text.lower())
         if np in stopWords:
             continue
         if np in allTerms.keys():
@@ -51,7 +51,7 @@ def findTermsInWindow(chunkOfTexts, allTerms):
             allTerms[np] = 1
 
 
-def computerTf(dir, window=3, proportionData=0.1):
+def computerTf(dir, proportionData=0.1):
     CoreConcepts = {"music", "musician", "album", "genre", "instrument", "performance", 'song', 'release', 'band'}
     alldocs = [join(dir, f) for f in listdir(dir) if isfile(join(dir, f))]
     AllTerms = dict()
@@ -60,11 +60,12 @@ def computerTf(dir, window=3, proportionData=0.1):
         # if i % 10 == 0: print(i / nbrOfDocs)
         docText = open(doc, "r", errors='ignore').read()
         docParsing = nlp(docText)
-        nounChunks = list(docParsing.noun_chunks)
-        for i, chunk in enumerate(nounChunks):
-            if not textContainsConcept(chunk.text.lower(), CoreConcepts):
+        for noun_chunks in docParsing.noun_chunks:
+            if not textContainsConcept(noun_chunks.text.lower(), CoreConcepts):
                 continue
-            findTermsInWindow(nounChunks[i-window:i+window], allTerms=AllTerms)
+            conjucts = list(noun_chunks.conjuncts)
+            conjucts.append(noun_chunks)
+            getAncestorsOfCoreConcept(conjucts, allTerms=AllTerms)
     return AllTerms
 
 if __name__ == '__main__':

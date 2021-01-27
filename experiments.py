@@ -1,5 +1,6 @@
 from TermsExtraction import main as termExtraction
 from TermsExtractionCoreRelated import main as termCoreRelatedWindow
+from TermsExtractionDepRelated import  main as termAncestorExtraction
 from CorpusParsing import main as corpusParsing
 from termsLabelling import main as autoLabelling
 from window_based_matrix_creation import main as windowGeneration
@@ -11,24 +12,24 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 if __name__ == '__main__':
-    windowSizes = [i for i in range(1,15, 1)]
+    proportionsData = np.linspace(0.1,0.8, 8)
     fracIrrTerms = []
     nbrOfWords = []
-    for windowSize in windowSizes:
-        termCoreRelatedWindow(5, windowSize)
+    for proportionData in proportionsData:
+        termCoreRelatedWindow(5, window=1, proportionData=proportionData)
         windowGeneration()
         freqIrrTerm, nbrWords = autoLabelling()
         fracIrrTerms.append(freqIrrTerm)
         nbrOfWords.append(nbrWords)
-    plt.plot(windowSizes, fracIrrTerms)
-    plt.xlabel("MinFreq")
+    plt.plot(proportionsData, fracIrrTerms)
+    plt.xlabel("Proportion of data used")
     plt.ylabel("Frequency Irrelevant Terms")
-    plt.title("Frequency of Irrelevant terms depending on the minFreq value.")
-    print("Best Value for :"+str(windowSizes[np.argmin(fracIrrTerms)]))
+    plt.title("Frequency of Irrelevant terms depending on the proportion of data.")
+    print("Best Value for :"+str(proportionsData[np.argmin(fracIrrTerms)]))
     plt.show()
 
-    plt.plot(windowSizes, nbrOfWords)
-    plt.xlabel("MinFreq")
+    plt.plot(proportionsData, nbrOfWords)
+    plt.xlabel("Proportion of data used")
     plt.ylabel("Number of extracted terms")
-    plt.title("Number of extracted terms depending on the minFreq")
+    plt.title("Number of extracted terms depending on the proportion of data")
     plt.show()

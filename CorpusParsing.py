@@ -62,7 +62,7 @@ def main(min_freq = 3, isDep = True):
             freq_file.write(key + "\n")
     freq_file.close()
     f2.close()
-    print(heapq.nlargest(10, lemmas, key=lemmas.get))
+    # print(heapq.nlargest(10, lemmas, key=lemmas.get))
     print("Finish Corpus extraction")
 
 if __name__ == '__main__':
