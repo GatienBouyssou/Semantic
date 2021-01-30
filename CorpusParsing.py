@@ -8,7 +8,7 @@ from spacy.lang.en.stop_words import STOP_WORDS
 stopWords = set(STOP_WORDS)
 
 
-def main(min_freq = 3, isDep = True):
+def main(min_freq = 3, isDep = True, proportionData=0.1):
     """
         corpus parsing + creation of frequent terms file above given minimum threshold
     """
@@ -22,7 +22,7 @@ def main(min_freq = 3, isDep = True):
     lemmas = dict()
     alldocs = [join(corpus_dir, f) for f in listdir(corpus_dir) if isfile(join(corpus_dir, f))]
     f2 = open(output_file, "w", errors='ignore')
-    alldocs = alldocs[:int(len(alldocs)*0.1)]
+    alldocs = alldocs[:int(len(alldocs)*proportionData)]
     nbrOfDocs = len(alldocs)
     for i, doc in enumerate(alldocs):
         # if i%10 ==0: print(i/nbrOfDocs)
@@ -66,4 +66,4 @@ def main(min_freq = 3, isDep = True):
     print("Finish Corpus extraction")
 
 if __name__ == '__main__':
-    main()
+    main(100, True, 0.7)

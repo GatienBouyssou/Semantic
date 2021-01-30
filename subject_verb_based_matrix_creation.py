@@ -33,8 +33,8 @@ def main(window_size=5):
     # Filter contexts to decrease sparsity
     frequent_contexts = filter_contexts(cooc_mat, 1)
     # Save the files
-    save_file_as_Matrix1(cooc_mat, frequent_contexts, processed_corpus_dir, r"/sub_verb_matrix.csv", r"/sub_verb_matrix_terms.txt")
-    save_file_as_Matrix12(cooc_mat, frequent_contexts, processed_corpus_dir, r"/sub_verb_matrix2.csv")
+    save_file_as_Matrix1(cooc_mat, frequent_contexts, processed_corpus_dir, r"/window_matrix.csv", r"/window_matrix_terms.txt")
+    save_file_as_Matrix12(cooc_mat, frequent_contexts, processed_corpus_dir, r"/window_matrix2.csv")
 
 
 def update_window_based_cooc_matrix(cooc_mat, freq_words, sentence, window_size, terms):

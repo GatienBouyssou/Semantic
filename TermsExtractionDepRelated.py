@@ -60,13 +60,13 @@ def computerTf(dir, proportionData=0.1):
         # if i % 10 == 0: print(i / nbrOfDocs)
         docText = open(doc, "r", errors='ignore').read()
         docParsing = nlp(docText)
-        for noun_chunks in docParsing.noun_chunks:
-            if not textContainsConcept(noun_chunks.text.lower(), CoreConcepts):
+        for noun_chunk in docParsing.noun_chunks:
+            if not textContainsConcept(noun_chunk.text.lower(), CoreConcepts):
                 continue
-            conjucts = list(noun_chunks.conjuncts)
-            conjucts.append(noun_chunks)
+            conjucts = list(noun_chunk.conjuncts)
+            conjucts.append(noun_chunk)
             getAncestorsOfCoreConcept(conjucts, allTerms=AllTerms)
     return AllTerms
 
 if __name__ == '__main__':
-    main()
+    main(5,0.7)

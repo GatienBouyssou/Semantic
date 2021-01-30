@@ -8,28 +8,41 @@ from subject_verb_based_matrix_creation import main as SVmatrixCreation
 from SGD import main as exeSGD
 from LDAClustering import main as LDAclustering
 from common_functions import cartesian
+from matrix_sparsity import  main as matrixSparcity
 import matplotlib.pyplot as plt
 import numpy as np
 
 if __name__ == '__main__':
-    proportionsData = np.linspace(0.1,0.8, 8)
-    fracIrrTerms = []
-    nbrOfWords = []
-    for proportionData in proportionsData:
-        termCoreRelatedWindow(5, window=1, proportionData=proportionData)
-        windowGeneration()
-        freqIrrTerm, nbrWords = autoLabelling()
-        fracIrrTerms.append(freqIrrTerm)
-        nbrOfWords.append(nbrWords)
-    plt.plot(proportionsData, fracIrrTerms)
-    plt.xlabel("Proportion of data used")
-    plt.ylabel("Frequency Irrelevant Terms")
-    plt.title("Frequency of Irrelevant terms depending on the proportion of data.")
-    print("Best Value for :"+str(proportionsData[np.argmin(fracIrrTerms)]))
+    minFreqs = [i for i in range(1, 10)]
+    accuracies = []
+    accuraciesVerb = []
+    homogeneities = []
+    homogeneitiesVerb = []
+    for minFreq in minFreqs:
+        windowGeneration(window_size=minFreq)
+        print(autoLabelling())
+        homogeneities.append(LDAclustering())
+        accuracies.append(exeSGD())
+        SVmatrixCreation(window_size=minFreq)
+        print(autoLabelling())
+        homogeneitiesVerb.append(LDAclustering())
+        accuraciesVerb.append(exeSGD())
+    print(accuracies)
+    print(accuraciesVerb)
+    plt.plot(minFreqs, accuracies, label="Window based")
+    plt.plot(minFreqs, accuraciesVerb, label="Subject Verb")
+    plt.xlabel("minFreq")
+    plt.ylabel("Accuracy")
+    plt.title("Accuracy depending on the window size.")
+    plt.legend()
+    print("Best Value for :"+str(minFreqs[np.argmax(accuracies)]))
     plt.show()
 
-    plt.plot(proportionsData, nbrOfWords)
-    plt.xlabel("Proportion of data used")
-    plt.ylabel("Number of extracted terms")
-    plt.title("Number of extracted terms depending on the proportion of data")
+    plt.plot(minFreqs, homogeneities, label="Window based")
+    plt.plot(minFreqs, homogeneitiesVerb, label="Subject Verb")
+    plt.xlabel("minFreq")
+    plt.ylabel("Homogeneity")
+    plt.title("Homogeneity depending on the window size.")
+    plt.legend()
+    print("Best Value for :"+str(minFreqs[np.argmax(homogeneities)]))
     plt.show()
