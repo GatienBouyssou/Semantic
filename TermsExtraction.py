@@ -5,7 +5,7 @@ nlp = spacy.load('en_core_web_sm')
 from spacy.lang.en.stop_words import STOP_WORDS
 stopWords = set(STOP_WORDS)
 
-def main(minFreq=5):
+def main(minFreq=5, dataProp=0.1):
     """
     document terms extraction
     """
@@ -17,7 +17,7 @@ def main(minFreq=5):
 
     terms_file = open(output_file, "w", errors='ignore')
     #compute tf for each term in the corpus
-    tf = computerTf(corpus_dir)
+    tf = computerTf(corpus_dir, dataProp)
     #if tf of the term is greater than minimum freq save it to the output file
     for term, score in tf.items():
         if score >= minFreq:
@@ -31,11 +31,11 @@ def removeArticles(text):
         return text.replace(words[0]+ " ", "")
     return text
 
-def computerTf(dir):
+def computerTf(dir, dataProp):
     CoreConcepts = {"Musician", "Album", "Genre", "Instrument", "Performance"}
     alldocs = [join(dir, f) for f in listdir(dir) if isfile(join(dir, f))]
     AllTerms = dict()
-    alldocs = alldocs[:int(len(alldocs) * 0.1)]
+    alldocs = alldocs[:int(len(alldocs) * dataProp)]
     for i, doc in enumerate(alldocs):
         # if i % 10 == 0: print(i / nbrOfDocs)
         docText = open(doc, "r", errors='ignore').read()

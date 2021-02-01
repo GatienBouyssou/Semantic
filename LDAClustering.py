@@ -44,16 +44,16 @@ def main():
     # plt.title("Wordcloud for the LDA clustering")
     #
     # plt.show()
-    plt.scatter(X[:, 0], X[:, 1], c=y_pred, cmap=ListedColormap(colors, name='from_list', N=None))
-    plt.xlabel("PC1", size=15)
-    plt.ylabel("PC2", size=15)
-    plt.title("Term Classification with LDA", size=20)
-    plt.colorbar()
+    # plt.scatter(X[:, 0], X[:, 1], c=y_pred, cmap=ListedColormap(colors, name='from_list', N=None))
+    # plt.xlabel("PC1", size=15)
+    # plt.ylabel("PC2", size=15)
+    # plt.title("Term Classification with LDA", size=20)
+    # plt.colorbar()
     # vocab = list(Y[:,0])
     # for i, word in enumerate(vocab):
     #     if i%30 == 0:
     #         plt.annotate(word, xy=(X[i, 0], X[i, 1]))
-    plt.show()
+    # plt.show()
 
     return homo
 
