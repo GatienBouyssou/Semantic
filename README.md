@@ -6,6 +6,7 @@ The idea of this project was to create an ontology automatically from a music co
 - Build a co-occurence matrix based on the extracted terms and the frequent terms.
 - Use LDA (Latent Dirichlet allocation) and SGD (Stochastic gradient descent) to classify the extracted terms under the core concepts to build a Gold Ontology.
 
+We have made numerous files to help realise those steps. Those helpers where then use to make experiments sumarised in Experiments.ipynb.
 
 **You can find all our experiments in the notebook Experiments.ipynb**
 
